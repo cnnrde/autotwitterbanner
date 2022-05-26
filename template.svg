@@ -1,0 +1,14 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="1500" height="500" fill="#1D192C"/>
+<text fill="#9E9E9E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="500" letter-spacing="0em"><tspan x="50%" y="123.682" text-anchor="middle">[tag]</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="56" font-weight="bold" letter-spacing="0em"><tspan x="50%" y="216.864" text-anchor="middle">[username]</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="500" letter-spacing="0em"><tspan x="50%" y="289.682" text-anchor="middle">most recent follower: [mrf tag]</tspan></text>
+<rect x="712.5" y="328.5" width="75" height="75" rx="37.5" fill="url(#pattern0)"/>
+<text fill="#9E9E9E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="1291.29" y="496.318">(updates every 15 minutes)</tspan></text>
+<defs>
+<pattern id="pattern0" x="0" y="0" height="1" width="1" patternContentUnits="objectBoundingBox">
+<use xlink:href="#image0_2_2" transform="scale(0.0133333)"/>
+</pattern>
+<image id="image0_2_2" width="75" height="75" xlink:href="[pfp source]"/>
+</defs>
+</svg>
